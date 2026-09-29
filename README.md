@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Harsha Vardhan 👋
 
-<!--
-**harsha5291444/harsha5291444** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Java Full Stack Developer
 
-Here are some ideas to get you started:
+🎓 B.E. Computer Science and Engineering
+💻 Interested in Java Full Stack Development
+📍 Bengaluru , India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+
+- Java
+- Spring Boot
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- React
+- Python
+- Git and GitHub
+
+### 🚀 Projects
+
+- Employee Management System
+- Smart Parking System
+
+### 📜 Certifications
+
+- NPTEL - Introduction to Internet of Things
+- Oracle Certified Professional in Generative AI
+
+### 🔗 Connect with Me
+
+- LinkedIn: https://www.linkedin.com/in/harshavardhan1687956/
+- GitHub: https://github.com/harsha5291444
